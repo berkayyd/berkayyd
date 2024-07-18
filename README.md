@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
-<h3 align="center">A passionate iOS developer and a CSE student from Turkey</h3>
+<h3 align="center">CSE student from Turkey who is improving his iOS development skills</h3>
 
 - 🌱 I’m currently learning **swift**
 
